@@ -1,0 +1,58 @@
+body{
+    background-image: url(./Netflix.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ 
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.logo{
+    height: 100px;
+    width: 60px;
+    margin: 0px;
+
+}
+
+
+.logo1{
+    margin:auto;
+    width: 100px;
+    display: block;
+    padding: 10px;
+    padding-left: 50%;
+
+
+}
+ .navbar{
+    background-color: rgb(22, 15, 15) transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.h4{
+  font-size: 35px;
+}
+
+.pa{
+   font-size: 30px;
+}
+
+.block{
+    display: inline;
+    margin: auto;
+    margin-top: 1000px;
+}
